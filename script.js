@@ -14,8 +14,7 @@ const counters = document.querySelectorAll(".count");
 const btnsReadMore = document.querySelectorAll(".btn__read");
 
 // Page navigation
-// document.documentElement.scrollTop = 0;
-// document.body.scrollTop = 0;
+
 document.querySelector(".nav__links").addEventListener("click", function (e) {
   e.preventDefault();
 
