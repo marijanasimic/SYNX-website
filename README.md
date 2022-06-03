@@ -4,3 +4,4 @@ Navigation buttons help visitors find what they need without having to scroll th
 A number counter like the one used increases in count if you or any visitor refreshes their browser.
 A slider was used to display the testimonials of users of the site's services.
 All interactive elements on the page were created using vanilla js.
+Responsive for mobile devices.
